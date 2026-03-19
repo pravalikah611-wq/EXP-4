@@ -50,14 +50,16 @@ TABULAR COLUMN
 
 Rectifier without filter
 
-<img width="794" height="245" alt="Screenshot 2026-03-11 131412" src="https://github.com/user-attachments/assets/b23e3db8-4dd1-4ba8-8992-c1e14fad889d" />
+
+![WhatsApp Image 2026-03-19 at 20 36 38](https://github.com/user-attachments/assets/84047046-afcc-4566-a614-6aed4bcc98f9)
 
 
 
 TABULAR COLUMN
 Rectifier with filter
 
-<img width="797" height="248" alt="Screenshot 2026-03-11 131423" src="https://github.com/user-attachments/assets/ccd4200a-3f94-4046-8b87-0232d34b96e6" />
+![WhatsApp Image 2026-03-19 at 20 36 26](https://github.com/user-attachments/assets/46fba090-4e3e-4cb4-9a7a-0744fd339630)
+
 
 WAVEFORM:
 
